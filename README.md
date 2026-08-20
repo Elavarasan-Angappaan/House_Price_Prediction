@@ -155,7 +155,7 @@ RMSE: Add your value here
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Elavarasan**
 
 If you found this project useful, consider giving the repository a ⭐.
 
